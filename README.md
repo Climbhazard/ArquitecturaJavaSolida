@@ -1,8 +1,6 @@
 Arquitectura Java Sólida
 ========================
 
-Ejercicios realizados de la mano del libro en formato pdf
-	`Arquitectura Java Sólida` de
-	`Cecilio Álvarez Caules`
+Ejercicios realizados de la mano del libro en formato pdf `Arquitectura Java Sólida` de	`Cecilio Álvarez Caules`
 
-Lo pueden descargar de [aquí](http://www.etnassoft.com/biblioteca/arquitectura-java-solida/)
+Lo pueden descargar desde [aquí](http://www.etnassoft.com/biblioteca/arquitectura-java-solida/)
