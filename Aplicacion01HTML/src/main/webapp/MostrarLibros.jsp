@@ -41,7 +41,6 @@
 			System.out.println("Error accediendo a	la base de datos : "
 					+ e.getMessage());
 		} finally {
-			//6
 			if (resultSet != null) {
 				try {
 					resultSet.close();
